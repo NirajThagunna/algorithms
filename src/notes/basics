@@ -1,0 +1,10 @@
+1) what is asymptotic notations?
+	-> The word asymptotic means approaching a value or curve arbitrarily closely (i.e. as some sort of limit is taken). 
+	-> Asymptotic notations are mathematical tools to represent the time complexity of algorithms for asymptotic analysis.
+	
+2) Why we use asymptotic notations?
+	-> Asymptotic notations allow us to analyze an algorithm's running time by identifying it's behavior as the input size
+	   for the algorithm increases. This is also known as algorithm's growth rate.
+	   
+3) While analysing an algorithm, we mostly consider worst case scenario i.e. Big-Oh (O) notation, because it will give us an
+Upper limit of the execution time i.e. the execution time in the worst case.
