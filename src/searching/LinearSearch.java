@@ -8,6 +8,7 @@ import basicIO.UserIO;
 import java.io.PrintWriter;
 
 // Linear Searching Algorithm - Implementation
+// Linear Search - Sequential Search - Works for both Sorted and Unsorted Array
 class LinearSearchAlgo {
 	// Function to implement Linear Search ALgorithm
 	public static int linearSearch(int []arr, int key) {
