@@ -29,6 +29,11 @@ to run the program write down:
 
 - Searching Algorithms
 	- Linear Search
+		- Last Occurrence
+	- Binary Search
+		- Iterative Method
+		- Recursive Method
+	- Ternary Search
 
 
 <p align="center">😊</p>
