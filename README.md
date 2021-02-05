@@ -35,5 +35,9 @@ to run the program write down:
 		- Recursive Method
 	- Ternary Search
 
+- Sorting Algorithms
+	- Bubble Sort
+	- Selection Sort
+
 
 <p align="center">😊</p>
