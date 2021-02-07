@@ -38,6 +38,8 @@ to run the program write down:
 - Sorting Algorithms
 	- Bubble Sort
 	- Selection Sort
+	- Insertion Sort
+	- Quick Sort
 
 
 <p align="center">😊</p>

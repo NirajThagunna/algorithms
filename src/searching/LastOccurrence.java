@@ -11,7 +11,7 @@ public class LastOccurrence {
 	// Method to find the last occurrence of an element
 	public static int findOccurrence(int []arr, int num) {
 		int n = arr.length;
-		int count = -1;
+		int count = 0;
 		
 		for (int i = 0; i < n; i++) {
 			if (arr[i] == num) {
@@ -39,8 +39,8 @@ public class LastOccurrence {
 			
 			int result = findOccurrence(arr, num);
 			
-			if (result == -1) {
-				System.out.println(result);
+			if (result == 0) {
+				System.out.println("-1");
 			}
 			else {
 				System.out.println(result + 1);
