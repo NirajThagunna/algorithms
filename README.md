@@ -40,6 +40,8 @@ to run the program write down:
 	- Selection Sort
 	- Insertion Sort
 	- Quick Sort
+	- Merge Sort
+		- Inversion Count Problem
 
 
 <p align="center">😊</p>
