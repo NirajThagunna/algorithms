@@ -40,6 +40,7 @@ to run the program write down:
 	- Selection Sort
 	- Insertion Sort
 	- Quick Sort
+		- Updated Quick Sort (QuickSort1)
 	- Merge Sort
 		- Inversion Count Problem
 
